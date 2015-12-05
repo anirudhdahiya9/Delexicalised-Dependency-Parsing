@@ -1,0 +1,1 @@
+out_testing.dat_NEG.conllTotal Count : 21989Match Count : 14976Accuracy : 0.681067806631

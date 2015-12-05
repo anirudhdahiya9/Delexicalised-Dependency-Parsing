@@ -1,0 +1,128 @@
+REPORT
+=======
++ The model was trained on the full training file.
++ From testing data, various files were extracted where in each file, one of the lexical categories was silenced(underscored).
++ These files were parsed on the model trained(above), and the following results were obtained.
++ Results for each category can be found by the tag name.
+=======
+
+*FULL file : Without delexicalisation
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : NNP
+Total Count : 21989
+Match Count : 14678
+Accuracy : 66.751557597
+
+Tag : NST
+Total Count : 21989
+Match Count : 14937
+Accuracy : 67.9294192551
+
+Tag : VAUX
+Total Count : 21989
+Match Count : 14966
+Accuracy : 68.061303379
+
+Tag : VMC
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : CC
+Total Count : 21989
+Match Count : 14247
+Accuracy : 64.7914866524
+
+Tag : RB
+Total Count : 21989
+Match Count : 14973
+Accuracy : 68.0931374778
+
+Tag : JJ
+Total Count : 21989
+Match Count : 14978
+Accuracy : 68.1158761199
+
+Tag : DEM
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : RP
+Total Count : 21989
+Match Count : 14975
+Accuracy : 68.1022329346
+
+Tag : QC
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : QF
+Total Count : 21989
+Match Count : 14974
+Accuracy : 68.0976852062
+
+Tag : SYM
+Total Count : 21989
+Match Count : 14966
+Accuracy : 68.061303379
+
+Tag : VM
+Total Count : 21989
+Match Count : 13420
+Accuracy : 61.0305152576
+
+Tag : QO
+Total Count : 21989
+Match Count : 14982
+Accuracy : 68.1340670335
+
+Tag : UNK
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : NNC
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : NNPC
+Total Count : 21989
+Match Count : 14974
+Accuracy : 68.0976852062
+
+Tag : WQ
+Total Count : 21989
+Match Count : 14974
+Accuracy : 68.0976852062
+
+Tag : RDP
+Total Count : 21989
+Match Count : 14976
+Accuracy : 68.1067806631
+
+Tag : NN
+Total Count : 21989
+Match Count : 13370
+Accuracy : 60.8031288371
+
+Tag : PSP
+Total Count : 21989
+Match Count : 14975
+Accuracy : 68.1022329346
+
+Tag : PRP
+Total Count : 21989
+Match Count : 14344
+Accuracy : 65.2326163082
+
+Tag : NEG
+Total Count : 21989
+Match Count : 14976
+Accuracy : 68.1067806631
+
