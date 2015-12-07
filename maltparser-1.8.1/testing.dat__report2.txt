@@ -1,0 +1,155 @@
+Tag : VMC
+Total Count : 21989
+Match Count : 14978
+Accuracy : 68.1158761199
+
+Tag : VAUX
+Total Count : 21989
+Match Count : 14981
+Accuracy : 68.1295193051
+
+Tag : RP
+Total Count : 21989
+Match Count : 14963
+Accuracy : 68.0476601937
+
+Tag : UNK
+Total Count : 21989
+Match Count : 14986
+Accuracy : 68.1522579472
+
+Tag : FULL
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : QO
+Total Count : 21989
+Match Count : 14969
+Accuracy : 68.0749465642
+
+Tag : RDP
+Total Count : 21989
+Match Count : 14957
+Accuracy : 68.0203738233
+
+Tag : NNC
+Total Count : 21989
+Match Count : 14980
+Accuracy : 68.1249715767
+
+Tag : NSTC
+Total Count : 21989
+Match Count : 14994
+Accuracy : 68.1886397744
+
+Tag : NEG
+Total Count : 21989
+Match Count : 14979
+Accuracy : 68.1204238483
+
+Tag : RBC
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : NN
+Total Count : 21989
+Match Count : 12957
+Accuracy : 58.924917004
+
+Tag : PSP
+Total Count : 21989
+Match Count : 14960
+Accuracy : 68.0340170085
+
+Tag : CC
+Total Count : 21989
+Match Count : 14659
+Accuracy : 66.6651507572
+
+Tag : WQ
+Total Count : 21989
+Match Count : 14965
+Accuracy : 68.0567556506
+
+Tag : RB
+Total Count : 21989
+Match Count : 14957
+Accuracy : 68.0203738233
+
+Tag : QCC
+Total Count : 21989
+Match Count : 14970
+Accuracy : 68.0794942926
+
+Tag : NST
+Total Count : 21989
+Match Count : 14916
+Accuracy : 67.8339169585
+
+Tag : PRP
+Total Count : 21989
+Match Count : 14343
+Accuracy : 65.2280685797
+
+Tag : FULL
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : VM
+Total Count : 21989
+Match Count : 13153
+Accuracy : 59.8162717722
+
+Tag : QC
+Total Count : 21989
+Match Count : 14975
+Accuracy : 68.1022329346
+
+Tag : JJ
+Total Count : 21989
+Match Count : 14972
+Accuracy : 68.0885897494
+
+Tag : QF
+Total Count : 21989
+Match Count : 14974
+Accuracy : 68.0976852062
+
+Tag : NNP
+Total Count : 21989
+Match Count : 14677
+Accuracy : 66.7470098686
+
+Tag : NNPC
+Total Count : 21989
+Match Count : 14977
+Accuracy : 68.1113283915
+
+Tag : NULL
+Total Count : 21989
+Match Count : 14966
+Accuracy : 68.061303379
+
+Tag : INJ
+Total Count : 21989
+Match Count : 14990
+Accuracy : 68.1704488608
+
+Tag : JJC
+Total Count : 21989
+Match Count : 14975
+Accuracy : 68.1022329346
+
+Tag : SYM
+Total Count : 21989
+Match Count : 14942
+Accuracy : 67.9521578971
+
+Tag : DEM
+Total Count : 21989
+Match Count : 14970
+Accuracy : 68.0794942926
+

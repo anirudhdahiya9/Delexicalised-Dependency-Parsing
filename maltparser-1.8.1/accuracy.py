@@ -30,7 +30,7 @@ for i in result_files:
 	print i
 	print ratio
 	ratio *=100.0
-	f=open(input_file+'__report'+'.txt','a')
+	f=open(input_file+'__report2'+'.txt','a')
 	if(len(i.split('_'))>2):
 		tg = i.split('_')[2].split('.')[0]
 	else:
